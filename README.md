@@ -17,7 +17,7 @@ The data was cleaned using SQL and visualized using Power BI.
 ---
 
 ## 🛠️ Tools Used
-- SQL Server (Data Cleaning & Analysis)  
+- SQL Server (Data Cleaning, Transformation & Analysis)  
 - Power BI (Dashboard & Visualization)  
 - Git & GitHub (Version Control)  
 
@@ -37,9 +37,10 @@ The dataset includes:
 ---
 
 ## 🧹 Data Cleaning (SQL)
-- Converted inconsistent date formats into proper date format  
-- Replaced invalid or empty date values with NULL  
-- Ensured consistency across product and customer fields  
+- Converted inconsistent date formats into proper date format
+- Standardized city names (fixed spelling errors and case inconsistencies)
+- Corrected unit price data type, formatting issues and ensured consistent currency representation across records   
+- Improved overall data quality by handling missing and inconsistent value 
 
 ---
 
@@ -47,7 +48,7 @@ The dataset includes:
 - Revenue fluctuates across different periods with noticeable peaks  
 - Some product categories contribute more significantly to revenue  
 - Most orders are successfully delivered  
-- Credit Card and PayPal are the most used payment methods  
+- Credit Card, PayPal and cash on delivery are the most used payment methods  
 
 ---
 
@@ -69,11 +70,9 @@ The dataset includes:
 ## 📂 Project Structure
 Ecommerce-Sales-Analysis/ │ ├── dashboard/      # Power BI file
 ├── data/           # Raw dataset
-├── images/         # Dashboard screenshots
+├── images/         # Dashboard screenshots, tables and data model
 ├── sql/            # SQL queries (cleaning & analysis)
 └── README.md
-
----
 
 ---
 
