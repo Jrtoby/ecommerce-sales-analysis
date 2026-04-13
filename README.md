@@ -46,9 +46,9 @@ The dataset includes:
 
 ## 📈 Key Insights
 - Revenue fluctuates across different periods with noticeable peaks  
-- Some product categories contribute more significantly to revenue  
-- Most orders are successfully delivered  
-- Credit Card, PayPal and cash on delivery are the most used payment methods  
+- Revenue is concentrated among a few key product categories, highlighting top-performing segments  
+- Order fulfillment is efficient, with a high proportion of successfully delivered orders  
+- Credit Card, PayPal and cash on delivery are the most used payment methods, Digital payment methods dominate transactions, reflecting customer payment behavior  
 
 ---
 
