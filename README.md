@@ -1,5 +1,6 @@
 # E-Commerce Sales Analysis Dashboard
 E-commerce sales analysis using SQL and power BI
+![Dashboard](Ecom.jpg)
 
 ## 📊 Project Overview
 This project analyzes e-commerce sales data to uncover insights into revenue trends, customer activity, product performance, and order patterns.  
@@ -60,7 +61,8 @@ The dataset includes:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](Dashboard.png)
+![Dashboard](Dashboard2.png)
 
 ---
 
